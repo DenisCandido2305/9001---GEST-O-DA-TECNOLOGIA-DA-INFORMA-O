@@ -1,4 +1,4 @@
-# 9001---GEST-O-DA-TECNOLOGIA-DA-INFORMA-O
+# 9001---GESTAO-DA-TECNOLOGIA-DA-INFORMAO
 SUPER TRUNFO EM C
 
 Bem-vindo ao desafio "Super Trunfo - Países"! No jogo Super Trunfo, os jogadores comparam as propriedades das cartas para determinar a mais forte. O tema deste Super Trunfo é "Países," onde você comparará as propriedades das cidades.
